@@ -1,6 +1,6 @@
 name: flutter_crispchat
 description: A flutter wrapper around the Crisp mobile SDK for iOS and Android.
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/bebunk/flutter_crispchat
 
 environment:
